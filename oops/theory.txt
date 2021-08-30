@@ -1,0 +1,14 @@
+//encapsulation
+making it simple 
+reduce complexity + increase reusability
+
+//abstractiion
+reduce the impact of change
+reduce complexity + isolate impacct of changes
+
+//inheritance
+eliminate redundant code
+
+//polymorphism
+many forms 
+refactor ugly switch/case statements
